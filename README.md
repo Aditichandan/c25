@@ -1,1 +1,1 @@
-#  https://github.com/Aditichandan/c25.git
+#  t https://aditichandan.github.io/c25/
